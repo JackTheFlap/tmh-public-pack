@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "TMH Public Pack",
-  "version": "v1.0",
+  "version": "v1.1",
   "author": "JackTheFlap",
   "files": [
     {
@@ -67,11 +67,6 @@
     {
       "projectID": 335493,
       "fileID": 4578571,
-      "required": true
-    },
-    {
-      "projectID": 580555,
-      "fileID": 4689514,
       "required": true
     },
     {
@@ -155,11 +150,6 @@
       "required": true
     },
     {
-      "projectID": 317780,
-      "fileID": 4730973,
-      "required": true
-    },
-    {
       "projectID": 263420,
       "fileID": 4730963,
       "required": true
@@ -177,6 +167,16 @@
     {
       "projectID": 419139,
       "fileID": 4626083,
+      "required": true
+    },
+    {
+      "projectID": 580555,
+      "fileID": 4689513,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 4730987,
       "required": true
     }
   ],
