@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Faithful+64x+-+Beta+9.zip","file/CTM Faithful 0.2+1.20.x.zip"]
+resourcePacks:["vanilla","fabric","file/Faithful 64x - Beta 9.zip","file/CTM Faithful 0.2+1.20.x.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
